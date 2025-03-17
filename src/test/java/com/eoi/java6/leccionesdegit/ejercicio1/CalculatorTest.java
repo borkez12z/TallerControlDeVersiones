@@ -1,5 +1,6 @@
 package com.eoi.java6.leccionesdegit.ejercicio1;
 
+import com.eoi.java6.leccionesdegit.Calculator;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
